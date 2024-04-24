@@ -39,8 +39,6 @@ canvas {
 }
 
 
-
-
 /* Individual info box styles */
 .info-box {
   width: 80%;
@@ -52,13 +50,7 @@ canvas {
   color: #fff;
 }
 
-
-
-
 /* ----------- 2D MAP -----------*/
-
-
-
 
 .map-image {
   background-image: url(./Assets/TEXTURES/GOLDMAP_2.png);
@@ -72,8 +64,7 @@ canvas {
   height: 80vh;
 }
 
-
-
+/* ----------- POP UPS -----------*/
 
 /* INFO POP UP BOXES */
 .profile {
@@ -100,7 +91,7 @@ canvas {
 }
 
 
-/* Styles for profile content */
+/* Styles for pop up content */
 .content {
   position: absolute;
   padding: 20px;
@@ -198,7 +189,6 @@ canvas {
 
 
 /* BEACH ICON */
-/* Adjust the position of the pop up image */
 .beach-mark:hover img {
   transform: translateX(10%) translateY(1%);
 }
@@ -215,30 +205,13 @@ canvas {
 
 
 /* LOTUS ICON */
-
-
-.profile.lotus-mark {
-  background-color: black;
-  background-image: url(/IMAGES/lotuspic.webp);
-  background-size: cover;
-  background-size: 36px 30px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
-
-/* Adjust the position of the image */
 .lotus-mark:hover img {
   transform: translateX(25%) translateY(1%);
 }
 
-
 .lotus-mark:hover .profile-image {
   transform: translateX(-50%) translateY(-50%);
 }
-
 
 .lotus-mark:hover .content {
   visibility: visible;
@@ -248,30 +221,14 @@ canvas {
 
 
 /* HOBBIT ICON */
-
-
-.profile.Hobbit {
-  background-color: black;
-  background-image: url('/IMAGES/HobbitCircle.png');
-  background-size: cover;
-  background-size: 30px 30px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
-
 /* Adjust the position of the image */
 .Hobbit:hover img {
   transform: translateX(25%) translateY(1%);
 }
 
-
 .Hobbit:hover .profile-image {
   transform: translateX(-50%) translateY(-50%);
 }
-
 
 .Hobbit:hover .content {
   visibility: visible;
@@ -281,37 +238,20 @@ canvas {
 
 
 /* FRIENDS ICON */
-
-
-.profile.Friends {
-  background-color: black;
-  background-image: url('/IMAGES/FRIENDSicon2.png');
-  background-size: cover;
-  background-size: 30px 30px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
-
 /* Adjust the position of the image */
 .Friends:hover img {
   transform: translateX(50%) translateY(1%);
 }
 
-
 .Friends:hover .profile-image {
   transform: translateX(-90%) translateY(-50%);
 }
-
 
 .Friends:hover .content {
   visibility: visible;
   opacity: 1;
   transform: translateX(-575px) translateY(560px);
 }
-
 
 .profile.Friends .content .name {
   color: #ffff; /* Set font color */
@@ -320,37 +260,20 @@ canvas {
 
 
 /* POTTER ICON */
-
-
-.profile.Potter {
-  background-color: black;
-  background-image: url('/IMAGES/PotterICON.jpg');
-  background-size: cover;
-  background-size: 30px 30px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
-
 /* Adjust the position of the image */
 .Potter:hover img {
   transform: translateX(50%) translateY(1%);
 }
 
-
 .Potter:hover .profile-image {
   transform: translateX(-90%) translateY(-50%);
 }
-
 
 .Potter:hover .content {
   visibility: visible;
   opacity: 1;
   transform: translateX(-725px) translateY(460px);
 }
-
 
 .profile.Potter .content .name {
   color: #ffff; /* Set font color */
@@ -359,26 +282,11 @@ canvas {
 
 
 /* READ MORE */
-
-
-.profile.read-more {
-  background-color: black;
-  background-image: url('/IMAGES/OpenBook.jpg');
-  background-size: cover;
-  background-size: 45px 45px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
-
 .read-more:hover .content {
   visibility: visible;
   opacity: 1;
   transform: translateX(-950px) translateY(-200px);
 }
-
 
 .profile.read-more .content .name {
   color: #ffff;
