@@ -190,7 +190,7 @@ canvas {
 
 /* BEACH ICON */
 .beach-mark:hover img {
-  transform: translateX(10%) translateY(1%);
+  transform: translateX(30%) translateY(1%);
 }
 
 .beach-mark:hover .profile-image {
@@ -200,7 +200,7 @@ canvas {
 .beach-mark:hover .content {
   visibility: visible;
   opacity: 1;
-  transform: translateX(-20px) translateY(510px);
+  transform: translateX(-10px) translateY(510px);
 }
 
 
