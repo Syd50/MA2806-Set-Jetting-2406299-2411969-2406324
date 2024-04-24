@@ -155,6 +155,8 @@ Tomb Raider: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVOCuAjOYR0NY
 
 The Beach: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcPMUliKbTDgbduDA0nvrkuu8TFm5u0kUkHrRAob8cKzVm-sl
 
+Sherlock Holmes: https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_.jpg 
+
 =============  TEXTURES:  =============
 
 3D Globe Material: https://www.vecteezy.com/photo/35162504-ai-generated-abstract-world-map-with-glowing-lines-on-dark-background-vector-illustration-abstract-mash-line-and-point-scales-on-a-black-background-with-a-world-map-ai-generated  
