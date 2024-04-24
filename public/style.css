@@ -423,7 +423,7 @@ canvas {
 
 .profile.read-more {
   background-color: black;
-  background-image: url('./IMAGES/OpenBook.jpg');
+  background-image: url('IMAGES/OpenBook.jpg');
   background-size: cover;
   background-size: 45px 45px;
   background-repeat: no-repeat;
