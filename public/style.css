@@ -224,7 +224,7 @@ canvas {
 
 .profile.clapper-board {
   background-color: black;
-  background-image: url('IMAGES/ClapperBoardICON.jpg');
+  background-image: url(./Assets/TEXTURES/GOLDMAP_2.png);
   background-size: cover;
   background-size: 20px 20px;
   background-repeat: no-repeat;
@@ -279,7 +279,7 @@ canvas {
 
 .profile.lotus-mark {
   background-color: black;
-  background-image: img src="/IMAGES/lotuspic.webp";
+  background-image: url(/IMAGES/lotuspic.webp);
   background-size: cover;
   background-size: 36px 30px;
   background-repeat: no-repeat;
