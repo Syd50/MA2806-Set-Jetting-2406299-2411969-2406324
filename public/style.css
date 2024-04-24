@@ -5,8 +5,6 @@ body, html {
 }
 
 
-
-
 /* Styles for the Three.js canvas */
 canvas {
   width: 100px; /* Adjust the width of the canvas as needed */
@@ -180,7 +178,7 @@ canvas {
 
 .profile.question-mark {
   background-color: black;
-  background-image: url('/IMAGES/QUESTIONMARK.png');
+  background-image: url('./IMAGES/QUESTIONMARK.png');
   background-size: cover; /* Adjust the size of the question mark */
   background-size: 20px 20px;
   background-repeat: no-repeat;
@@ -204,7 +202,7 @@ canvas {
 
 .profile.bar-chart {
   background-color: black;
-  background-image: url('/IMAGES/BarChartPopUpIcon.png');
+  background-image: url('./IMAGES/BarChartPopUpIcon.png');
   background-size: cover;
   background-size: 45px 40px;
   background-repeat: no-repeat;
@@ -226,7 +224,7 @@ canvas {
 
 .profile.clapper-board {
   background-color: black;
-  background-image: url('/IMAGES/ClapperBoardICON.jpg');
+  background-image: url('./IMAGES/ClapperBoardICON.jpg');
   background-size: cover;
   background-size: 20px 20px;
   background-repeat: no-repeat;
