@@ -222,17 +222,6 @@ canvas {
 /* CLAPPER BOARD */
 
 
-.profile.clapper-board {
-  background-color: black;
-  background-image: url(./Assets/TEXTURES/GOLDMAP_2.png);
-  background-size: cover;
-  background-size: 20px 20px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
 
 .clapper-board:hover .content {
   visibility: visible;
