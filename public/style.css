@@ -200,18 +200,6 @@ canvas {
 /* BAR CHART */
 
 
-.profile.bar-chart {
-  background-color: black;
-  background-image: url('IMAGES/BarChartPopUpIcon.png');
-  background-size: cover;
-  background-size: 45px 40px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
-
 .bar-chart:hover .content {
   visibility: visible;
   opacity: 1;
@@ -220,7 +208,6 @@ canvas {
 
 
 /* CLAPPER BOARD */
-
 
 
 .clapper-board:hover .content {
