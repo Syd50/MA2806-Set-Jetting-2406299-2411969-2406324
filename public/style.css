@@ -174,32 +174,14 @@ canvas {
 
 
 /* QUESTION MARK */
-
-
-.profile.question-mark {
-  background-color: black;
-  background-image: url ('./IMAGES/QUESTIONMARK.png');
-  background-size: cover; /* Adjust the size of the question mark */
-  background-size: 20px 20px;
-  background-repeat: no-repeat;
-  width: 30px; /* Adjust the width of the profile to fit the question mark */
-  height: 30px; /* Adjust the height of the profile to fit the question mark */
-  border-radius: 50%; /* Ensure it's a circle */
-}
-
-
 .question-mark:hover .content {
   visibility: visible;
   opacity: 1;
-  transform: translateX(-925px) translateY(510px); /* Adjust the translation */
+  transform: translateX(-925px) translateY(510px); /* Adjust the pop up translation */
 }
 
 
-
-
 /* BAR CHART */
-
-
 .bar-chart:hover .content {
   visibility: visible;
   opacity: 1;
@@ -208,8 +190,6 @@ canvas {
 
 
 /* CLAPPER BOARD */
-
-
 .clapper-board:hover .content {
   visibility: visible;
   opacity: 1;
@@ -218,30 +198,14 @@ canvas {
 
 
 /* BEACH ICON */
-
-
-.profile.beach-mark {
-  background-color: black;
-  background-image: url('/IMAGES/BeachPic.jpg');
-  background-size: cover;
-  background-size: 29px 29px;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-}
-
-
-/* Adjust the position of the image */
+/* Adjust the position of the pop up image */
 .beach-mark:hover img {
   transform: translateX(10%) translateY(1%);
 }
 
-
 .beach-mark:hover .profile-image {
   transform: translateX(-50%) translateY(-50%);
 }
-
 
 .beach-mark:hover .content {
   visibility: visible;
