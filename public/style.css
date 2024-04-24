@@ -246,7 +246,7 @@ canvas {
 
 .profile.beach-mark {
   background-color: black;
-  background-image: url('./IMAGES/BeachPic.jpg');
+  background-image: url('/IMAGES/BeachPic.jpg');
   background-size: cover;
   background-size: 29px 29px;
   background-repeat: no-repeat;
@@ -279,7 +279,7 @@ canvas {
 
 .profile.lotus-mark {
   background-color: black;
-  background-image: url('./IMAGES/lotuspic.webp');
+  background-image: url('/IMAGES/lotuspic.webp');
   background-size: cover;
   background-size: 36px 30px;
   background-repeat: no-repeat;
@@ -312,7 +312,7 @@ canvas {
 
 .profile.Hobbit {
   background-color: black;
-  background-image: url('./IMAGES/HobbitCircle.png');
+  background-image: url('/IMAGES/HobbitCircle.PNG');
   background-size: cover;
   background-size: 30px 30px;
   background-repeat: no-repeat;
@@ -345,7 +345,7 @@ canvas {
 
 .profile.Friends {
   background-color: black;
-  background-image: url('./IMAGES/FRIENDSicon2.png');
+  background-image: url('/IMAGES/FRIENDSicon2.png');
   background-size: cover;
   background-size: 30px 30px;
   background-repeat: no-repeat;
@@ -384,7 +384,7 @@ canvas {
 
 .profile.Potter {
   background-color: black;
-  background-image: url('./IMAGES/PotterICON.jpg');
+  background-image: url('/IMAGES/PotterICON.jpg');
   background-size: cover;
   background-size: 30px 30px;
   background-repeat: no-repeat;
@@ -423,7 +423,7 @@ canvas {
 
 .profile.read-more {
   background-color: black;
-  background-image: url('IMAGES/OpenBook.jpg');
+  background-image: url('/IMAGES/OpenBook.jpg');
   background-size: cover;
   background-size: 45px 45px;
   background-repeat: no-repeat;
