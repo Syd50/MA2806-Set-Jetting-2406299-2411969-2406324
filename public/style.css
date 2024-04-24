@@ -279,7 +279,7 @@ canvas {
 
 .profile.lotus-mark {
   background-color: black;
-  background-image: url('/IMAGES/lotuspic.webp');
+  background-image: url(/IMAGES/lotuspic.webp);
   background-size: cover;
   background-size: 36px 30px;
   background-repeat: no-repeat;
